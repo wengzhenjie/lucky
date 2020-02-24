@@ -1,0 +1,2 @@
+进入当前目录命令行，执行
+scrapy crawl lianjiaSpider -o info.csv

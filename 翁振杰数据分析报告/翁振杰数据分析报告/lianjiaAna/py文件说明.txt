@@ -1,0 +1,8 @@
+explore_dt.py 为数据分布探索文件
+explore_cor.py 为数据间关系探索文件
+pre_deal.py 为探索数据预处理文件（处理是边探索边进行的）
+cls_model.py 为聚类模型训练文件
+cls_ana.py 为聚类结果分析文件
+pre_reg_deal.py 为回归模型之前的数据预处理文件
+reg_model.py 为回归模型训练与分析文件
+word_cloud.py 为词云分析文件

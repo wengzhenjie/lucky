@@ -1,0 +1,4 @@
+info.csv 为爬虫抓取的原始数据
+data.csv 为数据探索中的预处理结果（该数据为边探索边处理得到）
+cls_data.csv 为包含聚类水平的数据文件
+reg_data.csv 为回归模型的输入
